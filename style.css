@@ -45,8 +45,8 @@ body {
 
 .loader {
     position: relative;
-    width: 200px;
-    height: 290px;
+    width: 300px;
+    height: 300px;
 }
 
 .loader span {
