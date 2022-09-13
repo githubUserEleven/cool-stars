@@ -84,7 +84,7 @@ body {
      transition: 2s;
 }
 
-.loader:hover, :active, span::before {
+.loader:active span::before {
     transform-origin: 250px;
     box-shadow: 0 0 20px #00efff,
     -200px -200px 0 #00efff,
